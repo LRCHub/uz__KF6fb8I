@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Myself",
+  "base_artist": "Venna",
+  "createdAt": "2025-12-09T11:02:13.992936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lying to Myself",
+      "artist": "Leland Blue",
+      "has_synced": true,
+      "path": "select/01_Lying_to_Myself_Leland_Blue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "Sammi Palinkas",
+      "has_synced": false,
+      "path": "select/02_Me,_Myself_&_I_Sammi_Palinkas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All to Myself",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/03_All_to_Myself_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Help Myself",
+      "artist": "Dean Brody feat. The Reklaws",
+      "has_synced": true,
+      "path": "select/04_Can't_Help_Myself_Dean_Brody_feat._The_Reklaws.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Help Myself",
+      "artist": "Dean Brody",
+      "has_synced": true,
+      "path": "select/05_Can't_Help_Myself_Dean_Brody.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Stop Myself from Loving You",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/06_Can't_Stop_Myself_from_Loving_You_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cry Myself to Sleep",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/07_Cry_Myself_to_Sleep_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Me Myself and Why",
+      "artist": "Alana Springsteen",
+      "has_synced": true,
+      "path": "select/08_Me_Myself_and_Why_Alana_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Younger Version of Myself (feat. Abby Anderson)",
+      "artist": "Anna Vaus feat. Abby Anderson",
+      "has_synced": true,
+      "path": "select/09_Younger_Version_of_Myself_(feat._Abby_Anderson)_Anna_Vaus_feat._Abby_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Younger Version of Myself (feat. Abby Anderson)",
+      "artist": "Anna Vaus",
+      "has_synced": false,
+      "path": "select/10_Younger_Version_of_Myself_(feat._Abby_Anderson)_Anna_Vaus.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "By Myself",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/11_By_Myself_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Myself Arrested",
+      "artist": "Gomez",
+      "has_synced": true,
+      "path": "select/12_Get_Myself_Arrested_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "08 - Get Myself Arrested",
+      "artist": "Gomez",
+      "has_synced": true,
+      "path": "select/13_08_-_Get_Myself_Arrested_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Dream Myself Alive",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/14_I_Dream_Myself_Alive_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "09 - I Dream Myself Alive",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/15_09_-_I_Dream_Myself_Alive_A.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Myself (feat. Jorja Smith)",
+      "artist": "Venna",
+      "has_synced": false,
+      "path": "select/pl_01_Myself_(feat._Jorja_Smith)_Venna.txt"
+    }
+  ]
+}
